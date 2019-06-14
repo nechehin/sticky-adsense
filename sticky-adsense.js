@@ -71,8 +71,6 @@
         }
 
         sticky.innerHTML = getAmpStickyAdCode(width, height, client, slot);
-
-
     });
 
     loadAmpScript(function(){
